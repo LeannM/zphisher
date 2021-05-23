@@ -670,7 +670,7 @@ main_menu() {
 	fi
 }
 
-## Main
+## Mai
 kill_pid
 dependencies
 install_ngrok
